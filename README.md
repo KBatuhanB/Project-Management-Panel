@@ -1,4 +1,5 @@
 # Project Management Panel
+<img width="1842" height="1033" alt="screen" src="https://github.com/user-attachments/assets/09783eca-a666-41d1-9907-51e6ac604022" />
 
 A modern web application for tracking and managing projects, including their names, start and end dates, and statuses (**Completed**, **In Progress**, **To Do**). The dashboard provides a visual summary and interactive table for efficient project management.
 
